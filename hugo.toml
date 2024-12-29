@@ -1,0 +1,4 @@
+baseURL = 'https://apotenza92.github.io/tech-guides'
+languageCode = 'en-us'
+title = "Alex's Tech Guides"
+theme = 'ananke'
